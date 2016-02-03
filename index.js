@@ -1,4 +1,4 @@
-import {default as sample} from './lib/sample';
+import Magnificentish from './lib/magnificentish';
 
-export {sample};
+export default Magnificentish;
 
