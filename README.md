@@ -23,7 +23,7 @@ npm install # this will get deps and transpile code
 ## CLI Usage
 
 ```
-./bin/magnificentish.js
+./bin/magnificentish.js # assumes a running magnificent server
 ```
 
 Options:
